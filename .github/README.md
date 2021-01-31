@@ -1,7 +1,7 @@
 # Wifi
 Connect to my wifi by scanning the qr code
 
-![Screenshot](./screenshot.jpg)
+<img height="300" src="./screenshot.jpg">
 
 ## Development
 

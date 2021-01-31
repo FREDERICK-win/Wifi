@@ -1,24 +1,7 @@
 # Wifi
 
-## Project setup
-```
-npm install
-```
+Connect to my wifi by scanning the qr code
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Development
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Development Guide](./DEVELOPMENT.md).

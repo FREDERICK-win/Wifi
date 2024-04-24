@@ -4,11 +4,11 @@
       <div class="inner-header flex">
         <div class="wifi">
           <div class="qrcode">
-            <img src="./assets/wifiqr.png" />
+            <NuxtImg src="/wifi.png" />
           </div>
         </div>
       </div>
-      <Waves></Waves>
+      <Waves />
     </div>
 
     <div class="content flex">
@@ -16,17 +16,6 @@
     </div>
   </div>
 </template>
-
-<script>
-import Waves from '@/components/Waves.vue';
-
-export default {
-  name: 'App',
-  components: {
-    Waves,
-  },
-};
-</script>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
